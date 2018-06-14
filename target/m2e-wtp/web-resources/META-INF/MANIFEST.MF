@@ -1,9 +1,9 @@
 Manifest-Version: 1.0
 Implementation-Title: quantity-management
 Implementation-Version: release
-Built-By: huytranq2
+Built-By: tqh
 Implementation-Vendor-Id: com.quantity.management
-Build-Jdk: 1.8.0_144
+Build-Jdk: 1.8.0_171
 Implementation-URL: http://projects.spring.io/spring-boot/quantity-man
  agement/
 Created-By: Maven Integration for Eclipse
